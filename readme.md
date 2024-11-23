@@ -144,7 +144,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - Harsh Srivastav
 
 Project Link: [https://github.com/harshsrivastav8055/stock_price](https://github.com/harshsrivastav8055/stock_price)
 
