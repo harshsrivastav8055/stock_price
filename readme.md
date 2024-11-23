@@ -101,10 +101,10 @@ The data received is used to update the chart dynamically, showcasing price fluc
 
 ### Built With
 
-* [![JavaScript][JavaScript-url]
-* [![React][React-url]
-* [![Node.js][Node.js-url]
-* [![Web-Socket][Web-Socket-url]
+* [![JavaScript-url]]
+* [![React-url]]
+* [![Node.js-url]]
+* [![Web-Socket-url]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,21 +126,20 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/harshsrivastav8055/stock_price.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Set up for frontend
+3. Set up for frontend
     ```sh
     cd vite-project
     npm run dev                               # Run React app
     ```
-5.Set for Backend
+4.Set for Backend
 ```
     node server.js       # Run the WebSocket server
 ```
@@ -167,19 +166,6 @@ Project Link: [https://github.com/harshsrivastav8055/stock_price](https://github
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
 [JavaScript]: https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png
 [JavaScript-url]: https://www.javascript.com/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
