@@ -67,7 +67,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+(https://github.com/user-attachments/assets/824aa14a-db85-4304-8890-5bcbe3e76bb1)
 
 This project is a real-time price tracking application that simulates fluctuating values (e.g., stock prices) and displays them dynamically on a line chart. It involves both a backend server to generate data and a frontend client to visualize it, connected using WebSockets for real-time communication.
 
