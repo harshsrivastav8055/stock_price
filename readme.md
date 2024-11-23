@@ -42,7 +42,7 @@
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
     <br/>
-    <p>Hey this project is for showcasing real time market price of stocks with the help of line chart</p>
+    <p>Hey this project is for showcasing the real-time market price of stocks with the help of a line chart</p>
   </p>
 </div>
 
@@ -103,7 +103,7 @@ The data received is used to update the chart dynamically, showcasing price fluc
 
 * [![JavaScript][JavaScript]][JavaScript-url]
 * [![React][React.js]][React-url]
-* [![Node.js][Node.js]][Node.js-url]
+* <a href="Node.js-url"><img src="Node.js" alt="Node.js" height="80px" width="80px"></a>
 * [![Web-Socket][Web-Socket]][Web-Socket-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
