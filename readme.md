@@ -34,7 +34,8 @@
     project_description
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="
+https://github.com/user-attachments/assets/824aa14a-db85-4304-8890-5bcbe3e76bb1">View Demo</a>
     <br/>
     <p>Hey this project is for showcasing the real-time market price of stocks with the help of a line chart</p>
   </p>
