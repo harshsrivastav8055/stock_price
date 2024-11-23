@@ -139,7 +139,7 @@ This is an example of how to list things you need to use the software and how to
     cd vite-project
     npm run dev                               # Run React app
     ```
-4.Set for Backend
+4. Set up for Backend
 ```
     node server.js       # Run the WebSocket server
 ```
@@ -158,7 +158,7 @@ This is an example of how to list things you need to use the software and how to
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/harshsrivastav8055/stock_price](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/harshsrivastav8055/stock_price](https://github.com/harshsrivastav8055/stock_price)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -172,5 +172,5 @@ Project Link: [https://github.com/harshsrivastav8055/stock_price](https://github
 [React-url]: https://reactjs.org/
 [Node.js]:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/800px-Node.js_logo.svg.png
 [Node.js-url]: https://nodejs.org/en
-[Web-Scoket]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwqWz7aMlinMNdeQ2i5p8ITrqe9f81e9W_xA&s
+[Web-Socket]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwqWz7aMlinMNdeQ2i5p8ITrqe9f81e9W_xA&s
 [Web-Socket]: https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
