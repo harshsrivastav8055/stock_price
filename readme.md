@@ -101,10 +101,10 @@ The data received is used to update the chart dynamically, showcasing price fluc
 
 ### Built With
 
-* [![JavaScript][JavaScript]][JavaScript-url]
-* [![React][React.js]][React-url]
-* <a href="Node.js-url"><img src="Node.js" alt="Node.js" height="80px" width="80px"></a>
-* [![Web-Socket][Web-Socket]][Web-Socket-url]
+* [![JavaScript][JavaScript-url]
+* [![React][React-url]
+* [![Node.js][Node.js-url]
+* [![Web-Socket][Web-Socket-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,7 +144,7 @@ This is an example of how to list things you need to use the software and how to
 ```
     node server.js       # Run the WebSocket server
 ```
-6. Change git remote url to avoid accidental pushes to base project
+6. Change the git remote URL to avoid accidental pushes to the base project
    ```sh
    git remote set-url origin harshsrivastav8055/stock_price
    git remote -v # confirm the changes
