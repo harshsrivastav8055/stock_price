@@ -167,4 +167,4 @@ Project Link: [https://github.com/harshsrivastav8055/stock_price](https://github
 [Node.js]:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/800px-Node.js_logo.svg.png
 [Node.js-url]: https://nodejs.org/en
 [Web-Socket]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwqWz7aMlinMNdeQ2i5p8ITrqe9f81e9W_xA&s
-[Web-Socket]: https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
+[Web-Socket-url]: https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
