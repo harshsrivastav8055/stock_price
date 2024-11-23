@@ -101,10 +101,10 @@ The data received is used to update the chart dynamically, showcasing price fluc
 
 ### Built With
 
-* [![JavaScript-url]]
-* [![React-url]]
-* [![Node.js-url]]
-* [![Web-Socket-url]]
+* [JavaScript-url]
+* [React-url]
+* [Node.js-url]
+* [Web-Socket-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
